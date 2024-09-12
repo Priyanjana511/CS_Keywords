@@ -156,6 +156,143 @@ ___CLOUD COMPUTING___
 
 Cloud computing refers to the delivery of computing services over the internet, including servers, storage, databases, networking, software, and more. These services are offered on-demand, typically on a pay-as-you-go basis. Cloud computing provides flexible resources, faster innovation, and economies of scale. Here’s an in-depth look at cloud computing, including its key components, service models, deployment models, and benefits.
 
+___BARE METAL SYSTEM___
+
+A bare metal system refers to a physical computer or server that is not running on top of a virtualized layer but rather has an operating system installed directly on the hardware. This term contrasts with virtualized environments where multiple virtual machines (VMs) run on a hypervisor layer over the hardware. 
+
+___ARM___
+
+ARM (Advanced RISC Machine) is a family of computer processors and architectures widely used in various devices, from smartphones to embedded systems. ARM processors are known for their power efficiency, making them ideal for mobile and low-power applications. Here’s an overview of ARM, including its architecture, features, applications, and its impact on the tech industry.
+
+___RISC___
+
+RISC (Reduced Instruction Set Computing) is a type of microprocessor architecture that emphasizes a small, highly optimized set of instructions that can be executed very quickly. The RISC approach contrasts with CISC (Complex Instruction Set Computing), which has a larger set of more complex instructions. 
+
+___CISC___
+
+CISC (Complex Instruction Set Computing) is a type of microprocessor architecture designed to execute a wide variety of instructions with a single command. This architecture contrasts with RISC (Reduced Instruction Set Computing), which uses a smaller, simpler set of instructions. CISC architectures aim to reduce the number of instructions needed to perform tasks by making individual instructions more complex.
+
+___VIRTUAL MACHINE___
+
+A virtual machine (VM) is a software-based emulation of a physical computer. It runs an operating system and applications in an isolated environment, separate from the host machine. Virtual machines are widely used for development, testing, and deploying applications, as well as running multiple operating systems on a single physical machine.
+
+___IP ADDRESS___
+
+An IP address (Internet Protocol address) is a unique identifier assigned to devices connected to a network, such as the internet. It serves two primary purposes: identifying the host or network interface and providing the location of the device in the network to facilitate communication between devices.
+
+___VPN___
+
+A VPN (Virtual Private Network) is a technology that creates a secure, encrypted connection over a less secure network, typically the internet. It allows users to send and receive data as if their devices were directly connected to a private network, ensuring privacy, security, and anonymity.
+
+___HARDWARE___
+
+Hardware refers to the physical components of a computer system or any electronic device. It encompasses all the tangible parts that perform the actual computing, processing, storage, and output tasks. Hardware works in conjunction with software, which provides instructions and directs how the hardware functions.
+
+___BLOCKCHAIN___
+
+Blockchain is a decentralized and distributed digital ledger technology that records transactions across multiple computers in a secure, transparent, and tamper-resistant way. Each transaction is stored in a "block," and these blocks are linked together in chronological order, forming a "chain" of data. This technology underpins cryptocurrencies like Bitcoin and Ethereum but has broader applications in various fields such as finance, supply chain, healthcare, and voting systems.
+
+___DOMAIN NAME SYSTEM(DNS)___
+
+The Domain Name System (DNS) is a hierarchical and decentralized naming system used to translate human-readable domain names into machine-readable IP addresses. It functions as the "phonebook" of the internet, allowing users to access websites and online resources without needing to remember numerical IP addresses.
+
+___APPLICATION PROGRAMMING INTERFACE (API)___
+
+An API (Application Programming Interface) is a set of rules, protocols, and tools that allows different software applications to communicate with each other. It defines the methods and data structures through which applications or services can request and exchange information. APIs are essential for building modern software systems, enabling integration, data sharing, and functionality between different programs or services.
+
+___DATA STRUCTURES AND ALGORITHMS(DSA)___
+
+DSA (Data Structures and Algorithms) refers to the foundational concepts in computer science that deal with organizing and managing data efficiently, as well as the strategies for solving problems systematically. Understanding DSA is crucial for optimizing performance, reducing time complexity, and creating efficient solutions in software development.
+
+___DATABASE MANAGEMENT SYSTEM (DBMS)___
+
+DBMS (Database Management System) is software that is used to create, manage, and interact with databases. It provides a systematic way to store, retrieve, and manipulate data while ensuring security, consistency, and integrity of the data. DBMS allows multiple users to interact with the database simultaneously and efficiently.
+
+___ASSEMBLER___
+
+An assembler is a program that translates assembly language (a low-level programming language) into machine code (binary code) that can be executed by a computer's CPU. Assembly language is specific to a computer's architecture, meaning the instructions in the language correspond closely to the processor's native instructions.
+
+___LINKER___
+
+A linker is a crucial tool in the process of software development that combines multiple object files into a single executable or library file. The linking process resolves references between different pieces of code and data, ensuring that all components of a program can interact correctly. Linkers are used in conjunction with compilers to produce runnable programs.
+
+___COMPILER___
+
+A compiler is a specialized software tool that translates code written in a high-level programming language into machine code or an intermediate code that can be executed by a computer's CPU. The process involves several stages, each transforming the source code into a form that is understandable by the machine.
+
+___ROUTER___
+
+A router is a network device that forwards data packets between computer networks. It plays a crucial role in managing and directing traffic within and between networks, ensuring that data reaches its intended destination efficiently and accurately. Routers are used in various environments, from home networks to large enterprise networks and service provider infrastructures.
+
+___SWITCH___
+
+A switch is a network device that connects devices within a local area network (LAN) and manages data traffic between them. Unlike a router, which directs traffic between different networks, a switch operates at the data link layer (Layer 2) of the OSI model and focuses on managing communication within a single network segment.
+
+___FIREWALL___
+
+A firewall in computer networking is a security device or software designed to monitor, filter, and control incoming and outgoing network traffic based on predetermined security rules. Its primary goal is to protect a network or individual computer from unauthorized access and potential threats while allowing legitimate communication to pass through.
+
+___CRYPTO(CRYPTOCURRENCY)___
+
+Cryptocurrency is a type of digital or virtual currency that uses cryptography for security. Unlike traditional currencies issued by governments (like the US dollar or euro), cryptocurrencies operate on decentralized networks based on blockchain technology. This decentralization and the use of cryptographic techniques make cryptocurrencies resistant to counterfeiting and fraud.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
