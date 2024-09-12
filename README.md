@@ -65,8 +65,8 @@ _NETWORK_
 Network systems are essential for connecting computers and other devices to share resources, communicate, and access the internet. Here's an overview of network types, components, and a basic diagram to illustrate how they work together.
 
 Types of Networks:
-1.Local Area Network (LAN):
 
+1.Local Area Network (LAN):
 Description: A LAN connects devices within a limited area, such as a home, office, or school. It allows for high-speed data transfer and resource sharing.
 Components: Routers, switches, computers, printers, and other peripherals.
 Example: A home network where multiple computers and devices are connected to the same router.
