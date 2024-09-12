@@ -70,18 +70,18 @@ Types of Networks:
 Description: A LAN connects devices within a limited area, such as a home, office, or school. It allows for high-speed data transfer and resource sharing.
 Components: Routers, switches, computers, printers, and other peripherals.
 Example: A home network where multiple computers and devices are connected to the same router.
-2.Wide Area Network (WAN):
 
+2.Wide Area Network (WAN):
 Description: A WAN covers a large geographic area, often spanning cities, countries, or even continents. It connects multiple LANs and other networks.
 Components: Routers, switches, leased lines, and internet service providers (ISPs).
 Example: The internet is the largest WAN, connecting millions of networks globally.
-3.Metropolitan Area Network (MAN):
 
+3.Metropolitan Area Network (MAN):
 Description: A MAN covers a larger area than a LAN but smaller than a WAN, typically a city or a large campus.
 Components: Routers, switches, and fiber optic cables.
 Example: A network connecting several buildings or campuses within a city.
-4.Personal Area Network (PAN):
 
+4.Personal Area Network (PAN):
 Description: A PAN is a small network used for connecting devices within a very short range, usually a few meters.
 Components: Bluetooth devices, USB connections.
 Example: Connecting a smartphone to a laptop using Bluetooth.
@@ -93,21 +93,27 @@ The OSI (Open Systems Interconnection) model is a framework used to understand a
 1. Physical Layer (Layer 1)
 Function: Handles the physical connection between devices, including the transmission and reception of raw bitstreams over a physical medium. This layer deals with hardware elements such as cables, switches, and network interface cards (NICs).
 Examples: Ethernet cables, fiber optics, USB, and network interface cards (NICs).
+
 2. Data Link Layer (Layer 2)
 Function: Provides node-to-node data transfer and handles error detection and correction from the physical layer. It organizes data into frames and manages MAC (Media Access Control) addresses.
 Examples: Ethernet (IEEE 802.3), Wi-Fi (IEEE 802.11), and switches.
-3. Network Layer (Layer 3)
+
+3.Network Layer (Layer 3)
 Function: Responsible for packet forwarding, including routing through intermediate routers. It manages logical addressing (IP addresses) and determines the best path for data to travel across networks.
 Examples: Internet Protocol (IP), routers, and IP addressing.
-4. Transport Layer (Layer 4)
+
+4.Transport Layer (Layer 4)
 Function: Manages end-to-end communication, error recovery, and flow control between devices. It ensures that data is delivered accurately and in the correct sequence.
 Examples: Transmission Control Protocol (TCP), User Datagram Protocol (UDP), and port numbers.
-5. Session Layer (Layer 5)
+
+5.Session Layer (Layer 5)
 Function: Manages sessions or connections between applications. It handles session establishment, maintenance, and termination, ensuring that sessions are properly synchronized and data is correctly organized.
 Examples: Session establishment protocols like NetBIOS and RPC (Remote Procedure Call).
-6. Presentation Layer (Layer 6)
+
+6.Presentation Layer (Layer 6)
 Function: Translates data between the application layer and the network. It handles data encryption, decryption, compression, and conversion to ensure that data is in a readable format for the application layer.
 Examples: Data encryption (e.g., SSL/TLS), data compression, and character encoding (e.g., ASCII, EBCDIC).
+
 7. Application Layer (Layer 7)
 Function: Provides network services directly to applications. It enables software applications to communicate over the network and offers various protocols and services for end-user applications.
 Examples: HTTP (Hypertext Transfer Protocol), FTP (File Transfer Protocol), SMTP (Simple Mail Transfer Protocol), and DNS (Domain Name System).
@@ -117,34 +123,38 @@ _OPERATING SYSTEM_
 An Operating System (OS) is essential software that manages computer hardware and software resources and provides common services for computer programs. It serves as an intermediary between users and the computer hardware. Here’s a detailed overview of what an operating system is, its key functions, types, and examples.
 
 Key Functions of an Operating System:
-1.Process Management:
 
+1.Process Management:
 Function: Manages the execution of processes (programs in execution). This includes process scheduling, creation, termination, and ensuring that processes do not interfere with each other.
 Key Concepts: Multitasking, process synchronization, process scheduling.
-2.Memory Management:
 
+2.Memory Management:
 Function: Manages the system's memory, including RAM and virtual memory. It tracks each byte in a computer's memory and allocates space to processes as needed.
 Key Concepts: Paging, segmentation, virtual memory.
-3.File System Management:
 
+3.File System Management:
 Function: Manages files on storage devices. This includes file creation, deletion, reading, writing, and permissions. It organizes files into directories and ensures data integrity.
 Key Concepts: File structures, directories, file permissions.
-4.Device Management:
 
+4.Device Management:
 Function: Manages input and output devices through drivers. It handles communication between the system and hardware peripherals like printers, keyboards, and disk drives.
 Key Concepts: Device drivers, input/output (I/O) management.
-5.User Interface:
 
+5.User Interface:
 Function: Provides a way for users to interact with the computer. This can be through a graphical user interface (GUI) or a command-line interface (CLI).
 Key Concepts: Windows, icons, menus, command-line commands.
-6.Security and Access Control:
 
+6.Security and Access Control:
 Function: Protects data and system resources from unauthorized access and threats. It manages user authentication, authorization, and security policies.
 Key Concepts: User accounts, passwords, permissions, encryption.
-7.Networking:
 
+7.Networking:
 Function: Manages network connections and communications between computers. This includes managing network protocols and providing services such as file sharing and internet access.
 Key Concepts: TCP/IP stack, network interfaces, network security.
+
+_CLOUD COMPUTING_
+
+Cloud computing refers to the delivery of computing services over the internet, including servers, storage, databases, networking, software, and more. These services are offered on-demand, typically on a pay-as-you-go basis. Cloud computing provides flexible resources, faster innovation, and economies of scale. Here’s an in-depth look at cloud computing, including its key components, service models, deployment models, and benefits.
 
 
 
