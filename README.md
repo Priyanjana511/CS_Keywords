@@ -12,7 +12,7 @@ Temporary storage used by the CPU to hold data and instructions while processing
 Function: Random Access Memory (RAM) is used for temporarily storing data and instructions that the CPU needs while performing tasks.
 Characteristics: Volatile, meaning it loses its data when the computer is turned off.
 
-___STORAGE__-
+___STORAGE___
 
  Storage is a crucial component of a computer system, responsible for holding data and programs for long-term use. There are several types of storage devices, each with distinct characteristics. Here’s an overview of the most common types:
 
