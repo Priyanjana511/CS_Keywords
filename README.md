@@ -17,6 +17,7 @@ ___STORAGE___
  Storage is a crucial component of a computer system, responsible for holding data and programs for long-term use. There are several types of storage devices, each with distinct characteristics. Here’s an overview of the most common types:
 
 Types of Storage Devices:
+
 __1.Hard Disk Drive (HDD):__
 
 Description: An HDD is a traditional storage device that uses spinning disks (platters) and read/write heads to access data. It’s known for its large storage capacity and relatively low cost.
