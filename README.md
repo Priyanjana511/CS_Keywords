@@ -1,6 +1,7 @@
 ___COMPUTATION___
 
-In computing, computation refers to the process of performing mathematical calculations or processing data according to a set of rules or algorithms. Computation is driven by:
+In computing, computation refers to the process of performing mathematical calculations or processing data according to a set of rules or algorithms.
+Computation is driven by:
 
 __Central Processing Unit (CPU)__
 
@@ -26,7 +27,7 @@ Characteristics: Volatile, meaning it loses its data when the computer is turned
 
 ___STORAGE___
 
- Storage is a crucial component of a computer system, responsible for holding data and programs for long-term use. There are several types of storage devices, each with distinct characteristics. Here’s an overview of the most common types:
+ Storage is a crucial component of a computer system, responsible for holding data and programs for long-term use. There are several types of storage devices, each with distinct characteristics.
 
 Types of Storage Devices:
 
