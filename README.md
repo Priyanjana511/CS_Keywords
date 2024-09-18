@@ -313,7 +313,7 @@ ___33.Back end development___
 
 Back-end development refers to the server-side of web development, focusing on the logic, database interactions, and server configuration that power the front end. Key components include:
 
-1. Languages:
+a. Languages:
 
 JavaScript (Node.js): For building server-side applications.
 
@@ -327,7 +327,7 @@ PHP: Widely used for web development.
 
 
 
-2. Frameworks: Frameworks streamline back-end development by providing structure and pre-built components. Examples include:
+b. Frameworks: Frameworks streamline back-end development by providing structure and pre-built components. Examples include:
 
 Express.js (Node.js)
 
@@ -337,7 +337,7 @@ Spring (Java)
 
 
 
-3. Databases:
+c. Databases:
 
 Relational Databases: Such as MySQL and PostgreSQL, which use structured query language (SQL) for data manipulation.
 
@@ -345,13 +345,13 @@ NoSQL Databases: Such as MongoDB, which store data in a non-relational format fo
 
 
 
-4. APIs: Back-end developers create APIs (Application Programming Interfaces) that allow the front end to communicate with the server, typically using REST or GraphQL.
+d. APIs: Back-end developers create APIs (Application Programming Interfaces) that allow the front end to communicate with the server, typically using REST or GraphQL.
 
 
-5. Server Management: Involves configuring and managing web servers (like Apache or Nginx) and cloud services (like AWS, Google Cloud).
+e. Server Management: Involves configuring and managing web servers (like Apache or Nginx) and cloud services (like AWS, Google Cloud).
 
 
-6. Security: Implementing authentication, authorization, and data protection measures to secure applications.
+f. Security: Implementing authentication, authorization, and data protection measures to secure applications.
 
 
 
