@@ -5,7 +5,7 @@ In computing, computation refers to the process of performing mathematical calcu
 __Central Processing Unit (CPU)__
 Often called the "brain" of the computer, the CPU executes instuctions from programs and performs calculations.
 
-__Raphic Processing Unit (GPU)__: 
+__Raphic Processing Unit (GPU)__ 
 It is a specialized processor desinged to handle and accelerate the rendering of images, video and animation. It can handle many operations simultaneously.
 
 __Data Processing Unit (DPU)__
@@ -26,7 +26,7 @@ ___STORAGE___
 
 Types of Storage Devices:
 
-__Hard Disk Drive (HDD):__
+__Hard Disk Drive (HDD)__
 
 Description: An HDD is a traditional storage device that uses spinning disks (platters) and read/write heads to access data. It’s known for its large storage capacity and relatively low cost.
 Characteristics:
@@ -45,7 +45,7 @@ More expensive per gigabyte compared to HDDs.
 Often used in modern computers for improved performance.
 (This is a placeholder; search online for images of SSDs.)
 
-__Optical Drive:__
+__Optical Drive__
 
 Description: Optical drives use lasers to read and write data on optical discs such as CDs, DVDs, and Blu-ray discs.
 Characteristics:
@@ -53,7 +53,7 @@ Useful for reading or burning optical media.
 Less common in modern computers as digital downloads and streaming have become more prevalent.
 (This is a placeholder; search online for images of optical drives.)
 
-__Flash Drives (USB Drives):__
+__Flash Drives (USB Drives)__
 
 Description: Flash drives are portable storage devices that use flash memory. They connect via USB ports and are used for transferring files between computers.
 
