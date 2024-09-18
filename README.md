@@ -38,17 +38,12 @@ Characteristics:
 Mechanical parts that can wear out over time.
 Generally slower compared to SSDs.
 Cost-effective for large storage needs.
-(This is a placeholder; search online for images of HDDs.)
 
 __Solid-State Drive (SSD)__
 
 Description: An SSD uses flash memory to store data, which makes it faster and more reliable than HDDs. It has no moving parts, which also makes it more durable.
 
 Characteristics:
-Faster read/write speeds.
-More expensive per gigabyte compared to HDDs.
-Often used in modern computers for improved performance.
-(This is a placeholder; search online for images of SSDs.)
 
 __Optical Drive__
 
@@ -56,7 +51,6 @@ Description: Optical drives use lasers to read and write data on optical discs s
 Characteristics:
 Useful for reading or burning optical media.
 Less common in modern computers as digital downloads and streaming have become more prevalent.
-(This is a placeholder; search online for images of optical drives.)
 
 __Flash Drives (USB Drives)__
 
@@ -66,7 +60,6 @@ Characteristics:
 Compact and easy to carry.
 Available in various capacities.
 Convenient for data transfer and temporary storage.
-(This is a placeholder; search online for images of flash drives.)
 
 __Memory Cards__
 
