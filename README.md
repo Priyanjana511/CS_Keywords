@@ -3,15 +3,19 @@ ___COMPUTATION___
 In computing, computation refers to the process of performing mathematical calculations or processing data according to a set of rules or algorithms. Computation is driven by:
 
 __Central Processing Unit (CPU)__
+
 Often called the "brain" of the computer, the CPU executes instuctions from programs and performs calculations.
 
 __Raphic Processing Unit (GPU)__ 
+
 It is a specialized processor desinged to handle and accelerate the rendering of images, video and animation. It can handle many operations simultaneously.
 
 __Data Processing Unit (DPU)__
+
 A DPU is a specialized processor desinged to hamdle and accelerate data-centric tasks.
 
 __Tensor Processing Unit (TPU)__
+
 A Tensor Processing Unit (TPU) is a specialized hardware accelerator designed by Google for high-performance machine learning task. 
 
 ___MEMORY (RAM)___
