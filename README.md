@@ -7,7 +7,7 @@ __Central Processing Unit (CPU)__
 
 Often called the "brain" of the computer, the CPU executes instuctions from programs and performs calculations.
 
-__Raphic Processing Unit (GPU)__ 
+__Graphic Processing Unit (GPU)__ 
 
 It is a specialized processor desinged to handle and accelerate the rendering of images, video and animation. It can handle many operations simultaneously.
 
