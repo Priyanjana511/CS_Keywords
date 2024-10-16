@@ -1,6 +1,8 @@
 ___COMPUTATION___
 
 In computing, computation refers to the process of performing mathematical calculations or processing data according to a set of rules or algorithms.
+![image](https://github.com/user-attachments/assets/8abec227-b8bb-4212-a3b6-d2b5b695c82e)
+
 Computation is driven by:
 
 __Central Processing Unit (CPU)__
