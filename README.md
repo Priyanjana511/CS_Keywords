@@ -1,6 +1,7 @@
 ___COMPUTATION___
 
 In computing, computation refers to the process of performing mathematical calculations or processing data according to a set of rules or algorithms.
+
 ![image](https://github.com/user-attachments/assets/8abec227-b8bb-4212-a3b6-d2b5b695c82e)
 
 Computation is driven by:
@@ -9,23 +10,37 @@ __Central Processing Unit (CPU)__
 
 Often called the "brain" of the computer, the CPU executes instuctions from programs and performs calculations.
 
+![image](https://github.com/user-attachments/assets/bf8e86f7-1363-46d1-81b9-c7f27d7a6241)
+
 __Graphic Processing Unit (GPU)__ 
 
 It is a specialized processor desinged to handle and accelerate the rendering of images, video and animation. It can handle many operations simultaneously.
+
+![image](https://github.com/user-attachments/assets/d73b7a46-dc17-476c-a560-593773cf093b)
+
 
 __Data Processing Unit (DPU)__
 
 A DPU is a specialized processor desinged to hamdle and accelerate data-centric tasks.
 
+![image](https://github.com/user-attachments/assets/67729fbd-9c88-4884-981f-ab6e3f198bb0)
+
+
 __Tensor Processing Unit (TPU)__
 
 A Tensor Processing Unit (TPU) is a specialized hardware accelerator designed by Google for high-performance machine learning task. 
+
+![image](https://github.com/user-attachments/assets/720b256e-8379-4ecf-9e71-b473b91549b3)
+
 
 ___MEMORY (RAM)___
 
 Temporary storage used by the CPU to hold data and instructions while processing.
 Function: Random Access Memory (RAM) is used for temporarily storing data and instructions that the CPU needs while performing tasks.
 Characteristics: Volatile, meaning it loses its data when the computer is turned off.
+
+![image](https://github.com/user-attachments/assets/4bcf0f86-1a81-47fa-b135-ce09441c6e19)
+
 
 ___STORAGE___
 
@@ -41,9 +56,15 @@ Mechanical parts that can wear out over time.
 Generally slower compared to SSDs.
 Cost-effective for large storage needs.
 
+![image](https://github.com/user-attachments/assets/5801d44c-5086-46a7-94a8-b696a186e5d3)
+
+
 __Solid-State Drive (SSD)__
 
 Description: An SSD uses flash memory to store data, which makes it faster and more reliable than HDDs. It has no moving parts, which also makes it more durable.
+
+![image](https://github.com/user-attachments/assets/cf7b4cab-7674-4059-a3e7-d5516e96d204)
+
 
 Characteristics:
 
